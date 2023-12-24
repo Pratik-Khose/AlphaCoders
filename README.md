@@ -14,6 +14,7 @@
   <a href="https://instagram.com/im_pratikk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_pratikk_" height="30" width="40" /></a>
   </p>
   </p>
+  
   <p align="center">
   <b align="center">2.Hariom Ingle</b>
   <p align="center">
@@ -27,30 +28,30 @@
 ## Description
 Welcome to FlashCardMaster! 🚀 Unleash your creativity and build a dynamic flashcard application that provides a user-friendly platform for creating, editing, and studying flashcards.
 
-##<p color="red">Technologies Used</p>
+##Technologies Used 
 
-FlashCardMaster is built using a variety of technologies to ensure a robust and efficient platform for creating, editing, and studying flashcards. Here are the key technologies employed in this project:
+FlashCardMaster uses various technologies to ensure a robust and efficient platform for creating, editing, and studying flashcards. Here are the key technologies employed in this project:
 
 ### Frontend Technologies:
-- **HTML5:** The markup language used to structure and present content on the web.
-- **CSS3:** Cascading Style Sheets for styling the application and enhancing its visual appeal.
-- **JavaScript:** The programming language that enables interactive and dynamic content on the frontend.
-- **React.js:** A JavaScript library for building user interfaces, providing a responsive and interactive user experience.
+  - **HTML5:** The markup language used to structure and present content on the web.
+  - **CSS3:** Cascading Style Sheets for styling the application and enhancing its visual appeal.
+  - **JavaScript:** The programming language that enables interactive and dynamic content on the front end.
+  
 
 
 ### Features:
-- ✏️ **Create Flashcards:** Easily create new flashcards with a user-friendly interface.
-- 📝 **Edit Flashcards:** Edit your flashcards to update information or improve content.
-- 📖 **Study Mode:** Engage in an interactive study mode to enhance your learning experience.
-- 🔄 **Dynamic Content:** Enjoy a dynamic platform that adapts to your learning needs.
+  - ✏️ **Create Flashcards:** Easily create new flashcards with a user-friendly interface.
+  - 📝 **Edit Flashcards:** Edit your flashcards to update information or improve content.
+  - 📖 **Study Mode:** Engage in an interactive study mode to enhance your learning experience.
+  - 🔄 **Dynamic Content:** Enjoy a dynamic platform that adapts to your learning needs.
 
 ## Project Overview
-FlashCardMaster is a versatile tool designed to streamline the flashcard creation and studying process. Whether you're a student preparing for exams or someone looking to expand their knowledge, this application is tailored to meet your needs.
+FlashCardMaster is a versatile tool designed to streamline the flashcard creation and studying. Whether you're a student preparing for exams or someone looking to expand their knowledge, this application is tailored to meet your needs.
 
 ### Why FlashCardMaster?
-- **User-Friendly Interface:** The intuitive design ensures a seamless experience in creating and managing flashcards.
-- **Interactive Study Mode:** Dive into a rich learning experience with our interactive study mode, making learning engaging and effective.
-- **Dynamic Adaptability:** The platform adapts to your learning style, providing a personalized learning journey.
+  - **User-Friendly Interface:** The intuitive design ensures a seamless experience in creating and managing flashcards.
+  - **Interactive Study Mode:** Dive into a rich learning experience with our interactive study mode, making learning engaging and effective.
+  - **Dynamic Adaptability:** The platform adapts to your learning style, providing a personalized learning journey.
 
 ## How to Use:
 1. **Clone the Repository:**
