@@ -1,4 +1,4 @@
-<h1 color="red">     # 📚 FlashCardMaster </h1> 
+<h1 color="#000000">     # 📚 FlashCardMaster </h1> 
 
 ## Team Name: Alpha Coders 🤖
 
