@@ -1,9 +1,10 @@
-# 📚 FlashCardMaster
+<h1 color="red">     # 📚 FlashCardMaster </h1> 
 
 ## Team Name: Alpha Coders 🤖
 
 ### Team Members:
 1. Pratik Khose
+   
 2. Hariom Ingle
 
 ## Description
