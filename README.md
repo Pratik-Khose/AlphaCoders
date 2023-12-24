@@ -58,7 +58,7 @@ FlashCardMaster is a versatile tool designed to streamline the flashcard creatio
 ## How to Use:
 1. **Clone the Repository:**
    ```bash
-    https://github.com/Pratik-Khose/AlphaCoders_HRCNO/edit/main/README.md
+    https://github.com/Pratik-Khose/AlphaCoders_HRCNO
 
 ## Screenshots :![Screenshot 2023-12-24 184048](https://github.com/Pratik-Khose/AlphaCoders_HRCNO/assets/114019854/ff855759-50d0-4b89-84bf-91dfabc6f71c)
 ![Screenshot 2023-12-24 184208](https://github.com/Pratik-Khose/AlphaCoders_HRCNO/assets/114019854/fb3cc213-bacf-47ce-860c-bdbe7c6022fc)
