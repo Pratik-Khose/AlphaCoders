@@ -19,6 +19,4 @@ Welcome to FlashCardMaster! 🚀 Unleash your creativity and build a dynamic fla
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/FlashCardMaster.git
-
-# AlphaCoders
-Hack - O - Rama competition hackthon repository.
+ 
