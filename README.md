@@ -33,9 +33,11 @@ Welcome to FlashCardMaster! 🚀 Unleash your creativity and build a dynamic fla
 FlashCardMaster uses various technologies to ensure a robust and efficient platform for creating, editing, and studying flashcards. Here are the key technologies employed in this project:
 
 ### Frontend Technologies:
-  - **HTML5:** The markup language used to structure and present content on the web.
-  - **CSS3:** Cascading Style Sheets for styling the application and enhancing its visual appeal.
-  - **JavaScript:** The programming language that enables interactive and dynamic content on the front end.
+   <p align="left"> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+ 
   
 
 
