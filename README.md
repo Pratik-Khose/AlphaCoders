@@ -27,6 +27,17 @@
 ## Description
 Welcome to FlashCardMaster! 🚀 Unleash your creativity and build a dynamic flashcard application that provides a user-friendly platform for creating, editing, and studying flashcards.
 
+##<p color="red">Technologies Used</p>
+
+FlashCardMaster is built using a variety of technologies to ensure a robust and efficient platform for creating, editing, and studying flashcards. Here are the key technologies employed in this project:
+
+### Frontend Technologies:
+- **HTML5:** The markup language used to structure and present content on the web.
+- **CSS3:** Cascading Style Sheets for styling the application and enhancing its visual appeal.
+- **JavaScript:** The programming language that enables interactive and dynamic content on the frontend.
+- **React.js:** A JavaScript library for building user interfaces, providing a responsive and interactive user experience.
+
+
 ### Features:
 - ✏️ **Create Flashcards:** Easily create new flashcards with a user-friendly interface.
 - 📝 **Edit Flashcards:** Edit your flashcards to update information or improve content.
