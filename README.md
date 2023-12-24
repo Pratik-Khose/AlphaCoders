@@ -28,7 +28,7 @@
 ## Description
 Welcome to FlashCardMaster! 🚀 Unleash your creativity and build a dynamic flashcard application that provides a user-friendly platform for creating, editing, and studying flashcards.
 
-##Technologies Used 
+## Technologies Used 
 
 FlashCardMaster uses various technologies to ensure a robust and efficient platform for creating, editing, and studying flashcards. Here are the key technologies employed in this project:
 
